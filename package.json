@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "init": "^0.1.2"
+  },
+  "name": "buildonavax",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
